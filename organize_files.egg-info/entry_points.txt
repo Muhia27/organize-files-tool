@@ -1,0 +1,2 @@
+[console_scripts]
+organize-files = organize_files.__main__:main
